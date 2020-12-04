@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pray First</string>
+    <string name="title_home">Prayer</string>
+    <string name="title_alarm">Alarm</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_about">About</string>
+    <string name="title_activity_prayer">PrayerActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Prayers</string>
+    <string name="hello_about_fragment">About</string>
+    <string name="hello_alarm_fragment">Add your alarm</string>
+    <string name="hello_calendar_fragment">Add event calendar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="AddAlarm">Add Alarm</string>
+
+    <!-- TODO: Repeat -->
+    <string name="Monday">Every Monday</string>
+    <string name="Tuesday">Every Tuesday</string>
+    <string name="Wednesday">Every Wednesday</string>
+    <string name="Thursday">Every Thursday</string>
+    <string name="Friday">Every Friday</string>
+    <string name="Saturday">Every Saturday</string>
+    <string name="Sunday">Every Sunday</string>
+    <string name="addJournal">Add Journal</string>
+</resources>
